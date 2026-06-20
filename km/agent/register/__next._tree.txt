@@ -1,0 +1,2 @@
+:HL["/kh-property-web/_next/static/chunks/1lws9et_uqynr.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"locale","param":{"type":"d","key":"km","siblings":null},"prefetchHints":16,"slots":{"children":{"name":"agent","param":null,"prefetchHints":0,"slots":{"children":{"name":"register","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"tLHQ_SrNhfTFBziJB8Qf4"}
